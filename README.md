@@ -31,4 +31,8 @@ Since I'm using AI to move fast, I’m still figuring out some of the weird edge
 
 Some Screenshots:
 
+![CruiseOS Home Screen](screenshots/simulator_screenshot_084C6EEA-D709-4942-A39E-6C1596CFD0AC.png)
+![CruiseOS Home Screen](screenshots/simulator_screenshot_12CF9F5F-CED2-4814-A8F3-5B985874393A.png)
+![CruiseOS Home Screen](screenshots/simulator_screenshot_866354D5-D920-4EC6-9504-88E4FB511FB5.png)
+![CruiseOS Home Screen](screenshots/simulator_screenshot_E59A2344-AE8F-4DB0-B5E5-743E5A07B183.png)
 
