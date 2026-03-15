@@ -26,3 +26,9 @@ Basically: **Use this for testing and feedback, not as your primary way to navig
 I’m just one guy working on this, and full disclosure—I’m actually using AI to help me build and code this whole thing. I’d love to know what’s breaking or where the logic feels a bit clunky.
 
 Since I'm using AI to move fast, I’m still figuring out some of the weird edge cases. If you find a bug or have a "this would be cool" idea, head over to the [Issues] tab and let me know. Screenshots of the UI on your specific screen would be super helpful. Make sure you're on iOS 26. :)
+
+---
+
+Some Screenshots:
+
+
