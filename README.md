@@ -10,7 +10,7 @@ I'm building this because I wanted a dashboard that actually feels like it belon
 * **Top Widget:** A quick-glance widget at the top for your **Calendar** entries so you don't miss that next meeting while you're driving.
 * **Maps & Navigation:** You can search for spots, pin your favorites, and even try out the turn-by-turn.
 
-**Real talk (Read this first)**
+**Notice (Read this first)**
 
 I’m still deep in the "building" phase, so there are two things you need to know before you start driving with this:
 
