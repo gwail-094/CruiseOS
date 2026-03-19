@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>This app needs your location to provide navigation and show your car on the map.</string>
+    <key>NSAppleMusicUsageDescription</key>
+    <string>This app needs access to Apple Music to display and control your playback on the dashboard.</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>This app needs access to your calendar to show your upcoming events on the dashboard.</string>
+    <key>NSRemindersUsageDescription</key>
+    <string>This app needs access to your reminders to show them on the dashboard.</string>
+    <key>CFBundleDisplayName</key>
+    <string>CruiseOS</string>
+    <key>CFBundleName</key>
+    <string>CruiseOS</string>
+</dict>
+</plist>
